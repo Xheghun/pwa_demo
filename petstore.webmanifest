@@ -1,0 +1,13 @@
+{
+    "name": "Tuts Plus",
+    "short_name": "tuts",
+    "description": "programming tutorials",
+    "icons": {
+        "src": "images/icon.png",
+        "size": "512x512",
+        "type": "image/png"
+    },
+    "start_url": "index.html",
+    "display":"fullscreen",
+    "background_color": "#ffffff"
+}
